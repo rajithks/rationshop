@@ -1,1 +1,2 @@
-# rationshop
+# rationshop 
+work in progress
